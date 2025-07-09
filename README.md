@@ -23,3 +23,4 @@ This is a simple, beginner-friendly Flask application that provides CRUD (Create
 - **DELETE /users/<id>**: Delete a user by ID
 
 Feel free to modify the code to add more features!
+Credit to Cascade AI, SWE-1 LLM
