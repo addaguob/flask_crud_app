@@ -1,7 +1,7 @@
 import requests
 
 # Base URL for the Flask app
-BASE_URL = "http://localhost:5006"
+BASE_URL = "http://localhost:5005"
 
 
 def test_crud_operations():
